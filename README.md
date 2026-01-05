@@ -102,7 +102,7 @@ The Enterprise SaaS Monitoring & Security Dashboard is a full-stack application 
 
 ```bash
 # Clone the repository
-git clone https://github.com/them223/Enterprise-SaaS-Monitoring-Security-Dashboard.git
+git clone <repository-url>
 cd Enterprise-SaaS-Monitoring-Security-Dashboard
 
 # Install dependencies
@@ -190,8 +190,6 @@ Workflow files are located in `.github/workflows/`.
 ### High-Level Architecture Diagram
 
 ```
-[Architecture Diagram Placeholder]
-
 ┌─────────────────────────────────────────────────────────────────┐
 │                         Load Balancer                            │
 └────────────────────────────┬────────────────────────────────────┘
@@ -290,7 +288,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2026 Enterprise SaaS Monitoring & Security Dashboard
+Copyright (c) 2025 Enterprise SaaS Monitoring & Security Dashboard
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
